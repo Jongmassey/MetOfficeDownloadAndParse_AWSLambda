@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <!-- Populate values, uncomment this section, rename file to App.config before running
+    <add key="metOfficeKey" value=""/>
+    <add key="bucketName" value=""/>
+    <add key="awsKey" value=""/>
+    <add key="awsSecretKey" value=""/>
+    -->
+  </appSettings>
+</configuration>
